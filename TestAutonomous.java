@@ -13,7 +13,7 @@ public static void main(){
 Team772BlueSide robot = new Team772BlueSide();
 
 robot.ForwardBackward(538, 0.75);
-
+robot.Strafe(-269,269,0.75);
 
 }
 
